@@ -1,4 +1,4 @@
-# Notas tomasas del curos 100 Days of Code
+# Notas tomadas del curos 100 Days of Code
 
 En este repositorio dejo algunas notas y en algunos casos ejercicios resueltos del curso de Angela Yu en Udemy, [100 Days of Code](https://www.udemy.com/course/100-days-of-code/).
 Ejercicios cortos quedan en este repositorio, ejercicios más largos los pongo en un respositorio exclusivo.
