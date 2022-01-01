@@ -7,8 +7,10 @@ Lo más destacable son las notas en los ejercicios, que hacen referencia a los c
 
 ## Ejercicios cortos
 
+- [Día 24](Day-24/Day-24.md): Manejo de archivos.
 - [Día 25](Day-25/Day-25.md): Librería Pandas y manejo de datos en formato CSV.
 
 ## Ejercicios largos
 
 - **Juego de la víbora**. Turtle Graphics.
+- **Pong**. Turtle Graphics.
